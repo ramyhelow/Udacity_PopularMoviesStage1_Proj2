@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PopularMoviesStage1</string>
+
+    <string name="tmdb_api_key">c00d657c3349d4bbedd712e8a685bb45</string>
+    <string name="movie_title_label">Title:</string>
+    <string name="movie_release_data_label">Release Date:</string>
+    <string name="movie_rating_label">Rating:</string>
+    <string name="movie_plot_label">Plot:</string>
+</resources>
