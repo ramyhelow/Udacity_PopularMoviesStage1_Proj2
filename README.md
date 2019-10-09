@@ -13,6 +13,9 @@ and can also handle network status and network failures.
 ## Contact Info
 You can connect with me through:
 
+## API Key
+Please go to res/values/ids.xml and put your API_KEY in the_movie_db_api_key
+
 ramyhelow97@gmail.com  
 https://linkedin.com/in/ramyhelow/   
 https://twitter.com/ramyhelow    
