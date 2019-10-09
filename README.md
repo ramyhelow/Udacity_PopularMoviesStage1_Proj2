@@ -10,7 +10,7 @@ Building a layout and populating its fields from data received as JSON from TheM
 and can also handle network status and network failures.  
 
 ## API Key
-Please go to res/values/ids.xml and put your API_KEY in the_movie_db_api_key  
+Please go to res/values/strings.xml and put your API_KEY in the 'tmdb_api_key' tag    
 
 ## Contact Info
 You can connect with me through:  
